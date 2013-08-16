@@ -2,7 +2,9 @@
    Passer.java
    
    Description: This class is used to pass user information from the Forms.java
-                to the next Activity, Post.java
+                to the next Activity, Post.java. 
+                
+                From the first Activity, the Intent is used to indicate the designated Activity and the values to pass 					are set here and this Class returns those set values when they are called in the designated Activity.
 */
 
 package com.jhrockwell.forms;
